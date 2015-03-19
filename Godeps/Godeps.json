@@ -1,0 +1,10 @@
+{
+	"ImportPath": "github.com/chihhunglin/hello",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/chihhunglin/stringutil",
+			"Rev": "1a8ccd9b389fdbc0882689fc7499ebdfbae7cfbb"
+		}
+	]
+}
